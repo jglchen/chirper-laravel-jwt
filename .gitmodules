@@ -1,0 +1,6 @@
+[submodule "chirper-api-jwt"]
+	path = chirper-api-jwt
+	url = https://github.com/jglchen/chirper-api-jwt
+[submodule "chirper-next-jwt"]
+	path = chirper-next-jwt
+	url = https://github.com/jglchen/chirper-next-jwt
